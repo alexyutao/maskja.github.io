@@ -1,5 +1,5 @@
 baseURL: "https://blog.portbase.site/"
-title: PrintLove
+title: PorterBase
 paginate: 10
 theme: PaperMod
 languageCode: zh-cn
@@ -18,9 +18,9 @@ minify:
 copyright: Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: PrintLove
+  title: PorterBase
   description: "go语言学习免费教程、go语言微服务开发，以及程序猿的个人故事。"
-  keywords: ["porterbase"]
+  keywords: ["porterbase", "character", "backstory", "event", "plot"]
   author: ["alexyu"]
   # images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "2006-01-02"
