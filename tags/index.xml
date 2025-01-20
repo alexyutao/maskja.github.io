@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on PorterBase</title>
-    <link>/tags/</link>
+    <link>https://alexyutao.github.io/maskja.github.io/tags/</link>
     <description>Recent content in Tags on PorterBase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright><atom:link href="https://alexyutao.github.io/maskja.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

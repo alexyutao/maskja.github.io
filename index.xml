@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PorterBase</title>
-    <link>/</link>
+    <link>https://alexyutao.github.io/maskja.github.io/</link>
     <description>Recent content on PorterBase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <copyright>Content under license [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)</copyright>
-    <lastBuildDate>Wed, 27 Dec 2023 14:38:19 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Dec 2023 14:38:19 +0800</lastBuildDate><atom:link href="https://alexyutao.github.io/maskja.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>赞助</title>
-      <link>/sponsor/</link>
+      <link>https://alexyutao.github.io/maskja.github.io/sponsor/</link>
       <pubDate>Wed, 27 Dec 2023 14:38:19 +0800</pubDate>
       
-      <guid>/sponsor/</guid>
+      <guid>https://alexyutao.github.io/maskja.github.io/sponsor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>关于我</title>
-      <link>/about/</link>
+      <link>https://alexyutao.github.io/maskja.github.io/about/</link>
       <pubDate>Tue, 19 Dec 2023 13:48:03 +0800</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://alexyutao.github.io/maskja.github.io/about/</guid>
       <description></description>
     </item>
     
